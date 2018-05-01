@@ -3,8 +3,8 @@
 /*単純に同じファイル上でURG、ロボットをどちらも動かすだけである */
 
 
-#include <cstdio>
 #include <cmath>
+#include <cstdio>
 
 #include <unistd.h>
 #include <signal.h>
